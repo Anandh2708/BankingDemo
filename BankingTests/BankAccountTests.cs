@@ -42,8 +42,8 @@ public class BankAccountTests
 
     //hai da ajmeer conflict kaaga
     // hey epudra 
-    //hi
 
+    //push kandi summa
     public void AssertBalance(double expectedBalance)
     {
         Assert.Equal(expectedBalance, account.Balance);
