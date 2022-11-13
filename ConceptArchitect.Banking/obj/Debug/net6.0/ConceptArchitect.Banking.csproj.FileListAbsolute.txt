@@ -1,0 +1,12 @@
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\bin\Debug\net6.0\ConceptArchitect.Banking.deps.json
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\bin\Debug\net6.0\ConceptArchitect.Banking.dll
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\bin\Debug\net6.0\ConceptArchitect.Banking.pdb
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.csproj.AssemblyReference.cache
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.AssemblyInfoInputs.cache
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.AssemblyInfo.cs
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.csproj.CoreCompileInputs.cache
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.dll
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\refint\ConceptArchitect.Banking.dll
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ConceptArchitect.Banking.pdb
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Documents\temp\ConceptArchitect.Banking\obj\Debug\net6.0\ref\ConceptArchitect.Banking.dll
