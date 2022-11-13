@@ -5,6 +5,7 @@ namespace BankingTests;
 
 public class BankAccountTests
 {
+	//cheecheche
 
     BankAccount account;
     double originalInterestRate;
@@ -23,7 +24,7 @@ public class BankAccountTests
         originalInterestRate = BankAccount.InterestRate;
     }
 
-
+     //hi da how r u
     //helper functions.
     public void AssertTransactionFailed(bool status)
     {
@@ -38,8 +39,10 @@ public class BankAccountTests
         Assert.Equal(balance, account.Balance);
     }
 
+
     //hai da ajmeer conflict kaaga
     // hey epudra 
+
     //push kandi summa
     public void AssertBalance(double expectedBalance)
     {

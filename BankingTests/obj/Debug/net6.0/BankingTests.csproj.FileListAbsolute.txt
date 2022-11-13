@@ -100,3 +100,12 @@ c:\Users\Anandhakumar.R\Desktop\C sharp training\banking-project\BankingTests\ob
 c:\Users\Anandhakumar.R\Desktop\C sharp training\banking-project\BankingTests\obj\Debug\net6.0\BankingTests.pdb
 c:\Users\Anandhakumar.R\Desktop\C sharp training\banking-project\BankingTests\obj\Debug\net6.0\BankingTests.genruntimeconfig.cache
 c:\Users\Anandhakumar.R\Desktop\C sharp training\banking-project\BankingTests\obj\Debug\net6.0\ref\BankingTests.dll
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.csproj.AssemblyReference.cache
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.AssemblyInfoInputs.cache
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.AssemblyInfo.cs
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.csproj.CoreCompileInputs.cache
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.dll
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\refint\BankingTests.dll
+c:\Users\Mohamed.KajaM\OneDrive - Brillio\Desktop\temp\BankingTests\obj\Debug\net6.0\BankingTests.pdb
