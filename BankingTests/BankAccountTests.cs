@@ -31,6 +31,13 @@ public class BankAccountTests
         Assert.Equal(balance, account.Balance);
     }
 
+     //helper functions.
+    public void AssertTransactionFaileds(bool status)
+    {
+        Assert.False(status);
+        Assert.Equal(balance, account.Balance);
+    }
+
     public void AssertBalance(double expectedBalance)
     {
         Assert.Equal(expectedBalance, account.Balance);
